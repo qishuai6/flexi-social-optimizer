@@ -11,6 +11,18 @@
 3. **居民养老是被忽视的中间选项** — 年缴 300-10,000 元，100% 进个人账户、可继承
 4. **标普 500 定投负责上限** — 近百年年化 10%，月投 1,000 元 33 年后约 290 万
 
+## 安装
+
+WorkBuddy 的 Skill 放在用户级目录 `~/.workbuddy/skills/`，一条命令即可装好：
+
+```bash
+git clone https://github.com/qishuai6/flexi-social-optimizer.git ~/.workbuddy/skills/flexi-social-optimizer
+```
+
+装完重启（或刷新）WorkBuddy 对话，就能用 `/社保优化`、`/灵活就业`、`/自由职业养老` 等触发词唤起。
+
+> 也可把目录换成项目级路径 `{你的工作区}/.workbuddy/skills/`，仅对当前项目生效。
+
 ## 功能
 
 | 功能 | 说明 | 触发示例 |
