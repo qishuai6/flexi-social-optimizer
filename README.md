@@ -89,3 +89,8 @@ flexi-social-optimizer/
 ---
 
 基于研究报告：[《中国灵活就业者养老策略优化研究》](https://github.com/qishuai6/flexi-social-optimizer) · 受 [wealth-shortcut](https://github.com/qishuai6/wealth-shortcut) 启发
+
+## 更新日志
+
+- **2026-08-05** README 新增安装说明（一行 clone 命令）、功能总览与工作流图。
+- **2026-08-05** 项目发布：灵活就业社保优化顾问 skill——输入年龄/城市/收入，算出医保该不该交、养老金划不划算、标普500定投能替代多少，输出每月执行清单。
